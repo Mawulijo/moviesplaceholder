@@ -100,31 +100,6 @@
             "rate": "4.4",
             "release_date": "April 5, 2019",
             "synopsis": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson\u2019s case, by shouting out one word \u2013 SHAZAM! \u2013 this streetwise 14-year-old foster kid can turn into the adult superhero Shazam."
-        },
-        {
-            "cinemas": [
-                "Ibom Tropicana Ent. Centre, Uyo",
-                "Jabi Lake Mall, Abuja",
-                "Silverbird Entertainment Center, Abuja",
-                "Festival Mall, FESTAC",
-                "Ikeja City Mall, Ikeja",
-                "Silverbird Cinemas, West Hills, Ghana",
-                "Silverbird Cinemas, Accra Mall, Ghana",
-                "Silverbird Galleria, Victoria Island"
-            ],
-            "duration": "01 hours 49 minutes",
-            "genres": [
-                "Comedy",
-                "Fantasy",
-                "Now Showing",
-                "Slider"
-            ],
-            "movie_name": "Little",
-            "movie_poster": "https://silverbirdcinemas.com/wp-content/uploads/2019/03/littleposter-240x412.jpg",
-            "movie_url": "https://silverbirdcinemas.com/movie/little/",
-            "rate": "4.6",
-            "release_date": "April 19, 2019",
-            "synopsis": "A woman is transformed into her younger self at a point in her life when the pressures of adulthood become too much to bear."
         }
     ]
 }
